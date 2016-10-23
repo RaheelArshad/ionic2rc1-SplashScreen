@@ -1,0 +1,1 @@
+# ionic2rc1-SplashScreen
